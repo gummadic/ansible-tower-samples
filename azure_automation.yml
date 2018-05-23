@@ -5,3 +5,4 @@
       uri:
         url: "{{ url }}"
         method: POST
+        HEADER_Content-Length: 3495
