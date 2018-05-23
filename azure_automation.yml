@@ -3,5 +3,5 @@
   tasks:
     - name: Initiate Azure Automation
       uri:
-        url: "https://s13events.azure-automation.net/webhooks?token=SYT3QYx9%2fCKiK95HtyW1b91fLbI86wSX%2bAOGcvlzsek%3d"
+        url: {{url}}
         method: POST
