@@ -3,5 +3,5 @@
   tasks:
     - name: Initiate Azure Automation
       uri:
-        url: {{url}}
+        url: "{{ foo }}"
         method: POST
