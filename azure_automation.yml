@@ -6,3 +6,6 @@
         url: "https://s13events.azure-automation.net/webhooks?token=SYT3QYx9%2fCKiK95HtyW1b91fLbI86wSX%2bAOGcvlzsek%3d"
         method: POST
         HEADER_Content-Length: 3495
+        return_content: yes
+
+    
